@@ -1,11 +1,11 @@
 {
-    "name": "its_theta_for_manda",
-    "short_name": "its_theta_for_manda",
+    "name": "true_its_theta",
+    "short_name": "true_its_theta",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "random date show",
+    "description": "MAndA project",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
